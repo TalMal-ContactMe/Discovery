@@ -1,0 +1,9 @@
+#server.port: 8761
+spring.application.name: discovery
+
+#spring.profiles.active: docker
+#spring.config.import: configserver:http://config:8888
+
+#spring.profiles.active: localhost
+#spring.config.import: configserver:http://localhost:8888
+
